@@ -8,6 +8,8 @@
 
 ## 使用
 
+**推荐用浏览器的无痕模式运行**
+
 打开插件弹框，如下图：
 
 ![image](https://github.com/ckisok/xrw/assets/143160104/fbe052d5-3653-4164-939b-d3a49c9a8fed)
